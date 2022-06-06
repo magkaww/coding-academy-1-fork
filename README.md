@@ -33,4 +33,4 @@
 
 ---
 
-# tutaj wstaw swoje imię:Magda
+# tutaj wstaw swoje imię:
